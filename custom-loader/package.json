@@ -1,0 +1,14 @@
+{
+  "name": "custom-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-loader ./loader.mjs index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.14.49"
+  }
+}
