@@ -1,0 +1,13 @@
+{
+  "name": "@tkdn/sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tkdn <tkdnation@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}
